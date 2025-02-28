@@ -9,7 +9,7 @@ How to reach me::
 I'm currently working on:
   - 🏖🌊 Coastal erosion assessment
   - 🔬🦠 Multiscale webgis
-  - 🏔🏞 Morphodinamics in fluvial corridords and riverbanks
+  - 🏔🏞 Morphodinamics in fluvial corridords and riverbanks [QGIS riverbanks tools](https://github.com/gianfrancodp/qgis-riverbanks-tools)
   - 💥🪨 Petrographical data web viewers development
 
 <!--
