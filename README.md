@@ -1,4 +1,17 @@
-Dad, PhD Student and more. [gianfrancodp.github.io](https://gianfrancodp.github.io)
+Dad, PhD Student and more. 
+
+How to reach me::
+- 🌐 website: [gianfrancodp.github.io](https://gianfrancodp.github.io)
+- 📃 Blog: [medium.com/@gianfrancodipietro](https://medium.com/@gianfrancodipietro)
+- 👨‍💻 LinkedIn: [@gianfrancodipietro](https://www.linkedin.com/in/gianfrancodipietro/)
+
+---
+I'm currently working on:
+  - 🏖🌊 Coastal erosion assessment
+  - 🔬🦠 Multiscale webgis
+  - 🏔🏞 Morphodinamics in fluvial corridords and riverbanks
+  - 💥🪨 Petrographical data web viewers development
+
 <!--
 **gianfrancodp/gianfrancodp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
